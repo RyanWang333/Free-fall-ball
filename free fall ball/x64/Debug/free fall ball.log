@@ -1,0 +1,4 @@
+﻿  Ball.cpp
+D:\Users\17931\Desktop\Ball.cpp(15,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Users\17931\Desktop\Ball.cpp(16,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  free fall ball.vcxproj -> D:\Users\17931\Desktop\free fall ball\free fall ball\x64\Debug\free fall ball.exe
