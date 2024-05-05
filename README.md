@@ -24,6 +24,7 @@
 - 首先要安装好vs2022，配置opengl环境
 - 配置opengl库环境可进行参考：https://zhuanlan.zhihu.com/p/486459964
 - 直接拷贝，用vs2022调试运行即可
+- ![image](ball.gif)
 
 ## 控制
 

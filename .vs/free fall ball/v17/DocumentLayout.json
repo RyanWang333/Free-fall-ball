@@ -4,10 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{36CF36EA-F079-4DD3-A3C8-EEA75F621DD0}|free fall ball.vcxproj|D:\\Users\\17931\\Desktop\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\17931\\Desktop\\free-fall-ball\\Free-fall-ball\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ball.cpp",
-              "DocumentMoniker": "D:\\Users\\17931\\Desktop\\free-fall-ball\\Free-fall-ball\\Ball.cpp",
-              "RelativeDocumentMoniker": "Ball.cpp",
-              "ToolTip": "D:\\Users\\17931\\Desktop\\free-fall-ball\\Free-fall-ball\\Ball.cpp",
-              "RelativeToolTip": "Ball.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-05T11:00:06.254Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -39,7 +23,7 @@
               "RelativeDocumentMoniker": "..\\..\\Ball.cpp",
               "ToolTip": "D:\\Users\\17931\\Desktop\\Ball.cpp",
               "RelativeToolTip": "..\\..\\Ball.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-04T11:53:54.63Z",
               "EditorCaption": ""
